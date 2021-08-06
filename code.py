@@ -1,4 +1,4 @@
 def add(x, y):
-    pass
+    return x+y
 def sub(x, y):
     pass
